@@ -1,0 +1,7 @@
+# Reports can contain customer data. Do not commit them.
+report*.md
+bericht*.md
+reports/
+forensik-*/
+*.log
+wp-cli.phar
